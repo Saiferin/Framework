@@ -35,7 +35,7 @@ public class Repository {
         return this.items.addAll(items);
     }
 
-    public boolean add (List<Issue> issues){ //??????
+    public boolean add (List<Issue> issues){ 
         return items.addAll(items);
     }
 
